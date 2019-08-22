@@ -1,0 +1,10 @@
+{
+  "autoload": {
+    "psr-4": {
+      "AppearHere\\": "src/"
+    }
+  },
+  "require": {
+    "phpunit/phpunit": "^7.5"
+  }
+}
